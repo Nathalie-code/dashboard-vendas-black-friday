@@ -17,9 +17,9 @@ Dashboard interativo desenvolvido no Power BI Desktop para análise inteligente 
 
 ## 📸 Demonstração Visual
 
-![Overview]("image/1-bfoverview.png")
-![Analise]("image/2-analisedeproduto.png")
-![Matriz BCG]("image/3-planejamentobf.png")
+![Overview](image/1-bfoverview.png)
+![Analise](image/2-analisedeproduto.png)
+![Matriz BCG](image/3-planejamentobf.png)
 
 
 ## 📁 Como Executar o Projeto
